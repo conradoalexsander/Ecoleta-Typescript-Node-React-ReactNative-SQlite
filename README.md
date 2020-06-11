@@ -35,24 +35,17 @@
 <br />
 <p align="center">
   <a href="https://github.com/conradoaçexsamder/Ecoleta-Typescript-Node-React-ReactNative-SQlite">
-    <img src="images/nlw_README.png" alt="Logo" width="80" height="80">
+    <img src="images/nlw_README.png" alt="Logo" width="200" height="200">
   </a>
 
   <h3 align="center">Ecoleta</h3>
 
   <p align="center">
     Find the best spots to deliver recyclable material
-
-    <br />
-    <a href="https://github.com/conradoaçexsamder/Ecoleta-Typescript-Node-React-ReactNative-SQlite"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/conradoaçexsamder/Ecoleta-Typescript-Node-React-ReactNative-SQlite">View Demo</a>
-    ·
-    <a href="https://github.com/conradoaçexsamder/Ecoleta-Typescript-Node-React-ReactNative-SQlite/repo/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/conradoaçexsamder/Ecoleta-Typescript-Node-React-ReactNative-SQlite/repo/issues">Request Feature</a>
   </p>
+    <br />
+    <br />
+    <br />
 </p>
 
 
@@ -78,6 +71,15 @@
 ## About The Project
 
 [![Product Name Screen Shot][product-screenshot]](https://github.com/conradoalexsander/Ecoleta-Typescript-Node-React-ReactNative-SQlite/blob/master/images/web-home-sample.png)
+
+<p align="center">
+<img
+src="imgages/web-home-sample.png"
+raw=true
+alt="Web Home Screen" 
+height="512px" 
+/>
+</p>
 
 Here's a blank template to get started:
 **To avoid retyping too much info. Do a search and replace with your text editor for the following:**
