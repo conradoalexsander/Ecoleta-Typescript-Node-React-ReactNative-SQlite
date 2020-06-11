@@ -11,7 +11,7 @@ class ItemsController {
 			return {
 				id,
 				title,
-				image_url: `http://192.168.1.7:3333/uploads/${image}`,
+				image_url: `http://192.168.1.10:3333/uploads/${image}`,
 			};
 			//expo 192.168.1.8:19000
 			// http://localhost:3333/uploads
