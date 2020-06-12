@@ -126,12 +126,12 @@ expo start
 
 You can now check the points, its location and filter them by recycable item.
 
-## <h2 id="prerequisites"> :pushpin: Prerequisites </h2>
+## <h3 id="prerequisites"> :pushpin: Prerequisites </h2>
 
 * []() Node
 * []() Expo
 
-## <h2 id="instalation"> :computer: Installation </h2>
+## <h3 id="installation"> :computer: Installation </h2>
  
 1. Clone the Ecoleta-Typescript-Node-React-ReactNative-SQlite
 ```sh
@@ -158,7 +158,7 @@ Distributed under the MIT License.
 
 
 <!-- CONTACT -->
-## <h2 id="Contact"> :telephone_receiver: Contact </h2>
+## <h2 id="contact"> :telephone_receiver: Contact </h2>
 
 Conrado Alexsander </br>
 Github: [https://github.com/conradoalexsander](https://github.com/conradoalexsander) </br>
@@ -190,7 +190,7 @@ Project Link: [https://github.com/conradoalexsander/Ecoleta-Typescript-Node-Reac
 [issues-shield]: https://img.shields.io/github/issues/conradoalexsander/Ecoleta-Typescript-Node-React-ReactNative-SQlite.svg?style=flat-square
 [issues-url]: https://github.com/conradoalexsander/Ecoleta-Typescript-Node-React-ReactNative-SQlite/issues
 [license-shield]: https://img.shields.io/github/license/conradoalexsander/Ecoleta-Typescript-Node-React-ReactNative-SQlite.svg?style=flat-square
-[license-url]: https://github.com/conradoalexsander/Ecoleta-Typescript-Node-React-ReactNative-SQlite/blob/master/LICENSE.txt
+[license-url]: https://opensource.org/licenses/MIT
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/conradoalexsander
+[linkedin-url]: MIT
 [product-screenshot]: images/screenshot.png
