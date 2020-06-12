@@ -63,7 +63,7 @@ Project developed during the Next Level Week, an event organized by <a href="htt
 ## :bookmark: Table of Contents
 
 * [About the Project](#about-the-project)
-  * [:rocket: Built With](#built-with)
+  * [Built With](#:rocket:-built-with)
 * [Getting Started](#getting-started)
   * [Prerequisites](#prerequisites)
   * [Installation](#installation)
