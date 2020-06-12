@@ -34,15 +34,28 @@
     <img src="images/nlw_README.png" alt="Logo" width="200" height="200">
   </a>
 
-  <h3 align="center">Ecoleta</h3>
+  <h1 align="center">Ecoleta</h1>
 
-  <p align="center">
+  <h2 align="center">
     Find the best spots to deliver recyclable material
-  </p>
+  </h2>
     <br />
-    <br />
-    <br />
+ 
 </p>
+
+<!-- ABOUT THE PROJECT -->
+## :mortar_board: About The Project
+
+<p align="center">
+<img
+src="images/web-home-sample.png"
+raw=true
+alt="Web Home Screen" 
+height="512px" 
+/>
+</p>
+
+Project developed during the Next Level Week, an event organized by <a href="https://rocketseat.com.br/">Rocketseat</a> focused in the Typescript (and Javascript) Stack: React, React Native and Node. During seven days, participants are pushed to the limit, to deliver this full stack application.
 
 
 
@@ -61,17 +74,7 @@
 
 
 
-<!-- ABOUT THE PROJECT -->
-## About The Project
 
-<p align="center">
-<img
-src="images/web-home-sample.png"
-raw=true
-alt="Web Home Screen" 
-height="512px" 
-/>
-</p>
 
 <!-- BUILT WITH -->
 ### :rocket: Built With
