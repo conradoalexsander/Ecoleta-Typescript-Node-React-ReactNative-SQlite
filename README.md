@@ -190,7 +190,7 @@ Project Link: [https://github.com/conradoalexsander/Ecoleta-Typescript-Node-Reac
 [issues-shield]: https://img.shields.io/github/issues/conradoalexsander/Ecoleta-Typescript-Node-React-ReactNative-SQlite.svg?style=flat-square
 [issues-url]: https://github.com/conradoalexsander/Ecoleta-Typescript-Node-React-ReactNative-SQlite/issues
 [license-shield]: https://img.shields.io/github/license/conradoalexsander/Ecoleta-Typescript-Node-React-ReactNative-SQlite.svg?style=flat-square
-[license-url]: https://opensource.org/licenses/MIT
+[license-url]: https://github.com/conradoalexsander/Ecoleta-Typescript-Node-React-ReactNative-SQlite/blob/master/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: MIT
 [product-screenshot]: images/screenshot.png
