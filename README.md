@@ -44,7 +44,7 @@
 </p>
 
 <!-- ABOUT THE PROJECT -->
-## <h2 id="about-the-project"> :mortar_board: About The Project </p>
+## <h2 id="about-the-project"> :mortar_board: &nbsp; &nbsp; About The Project </h2>
 
 <p align="center">
 <img
@@ -60,7 +60,7 @@ Project developed during the Next Level Week, an event organized by <a href="htt
 
 
 <!-- TABLE OF CONTENTS -->
-## :bookmark: Table of Contents
+## :bookmark: &nbsp; &nbsp; Table of Contents
 
 * [About the Project](#about-the-project)
   * [Built With](#built-with)
@@ -77,7 +77,7 @@ Project developed during the Next Level Week, an event organized by <a href="htt
 
 
 <!-- BUILT WITH -->
-## <h2 id="built-with">:rocket: Built With</h2> 
+## <h2 id="built-with">:rocket: &nbsp; &nbsp; Built With</h2> 
 
 ### Web app
 * []() React
@@ -98,7 +98,7 @@ Project developed during the Next Level Week, an event organized by <a href="htt
 * []() SQLite
 
 <!-- GETTING STARTED -->
-## <h2 id="getting-started">:fire: Getting Started </h2>
+## <h2 id="getting-started">:fire: &nbsp; &nbsp; Getting Started </h2>
 
 Before following the next steps, make sure to change the routes with the correctlye connection (for expo check the 192.XXX.XXX:YYYY connection).
 
@@ -126,12 +126,12 @@ expo start
 
 You can now check the points, its location and filter them by recycable item.
 
-## <h3 id="prerequisites"> :pushpin: Prerequisites </h2>
+## <h3 id="prerequisites"> :pushpin: &nbsp; &nbsp; Prerequisites </h2>
 
 * []() Node
 * []() Expo
 
-## <h3 id="installation"> :computer: Installation </h2>
+## <h3 id="installation"> :computer: &nbsp; &nbsp; Installation </h2>
  
 1. Clone the Ecoleta-Typescript-Node-React-ReactNative-SQlite
 ```sh
@@ -142,7 +142,7 @@ git clone https://github.com/conradoalexsander/Ecoleta-Typescript-Node-React-Rea
 npm install
 ```
 <!-- USAGE EXAMPLES -->
-## <h2 id="usage"> :sparkles: Usage </h2>
+## <h2 id="usage"> :sparkles: &nbsp; &nbsp; Usage </h2>
 
 <p align="center" float="left">
   <img src="images/mobile-screen-sample.gif" width="200" />
@@ -152,13 +152,13 @@ npm install
 
 
 <!-- LICENSE -->
-## <h2 id="license"> :scroll: License </h2>
+## <h2 id="license"> :scroll: &nbsp; &nbsp; License </h2>
 
 Distributed under the MIT License.
 
 
 <!-- CONTACT -->
-## <h2 id="contact"> :telephone_receiver: Contact </h2>
+## <h2 id="contact"> :telephone_receiver: &nbsp; &nbsp; Contact </h2>
 
 Conrado Alexsander </br>
 Github: [https://github.com/conradoalexsander](https://github.com/conradoalexsander) </br>
@@ -167,7 +167,7 @@ Project Link: [https://github.com/conradoalexsander/Ecoleta-Typescript-Node-Reac
 
 
 <!-- ACKNOWLEDGEMENTS -->
-## <h2 id="acknowledgements"> :thumbsup: Acknowledgements </h2>
+## <h2 id="acknowledgements"> :thumbsup: &nbsp; &nbsp; Acknowledgements </h2>
 
 * []() <a href="https://rocketseat.com.br/">Rocketseat</a>
 
