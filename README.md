@@ -60,7 +60,7 @@ Project developed during the Next Level Week, an event organized by <a href="htt
 
 
 <!-- TABLE OF CONTENTS -->
-## Table of Contents
+## :bookmark: Table of Contents
 
 * [About the Project](#about-the-project)
   * [Built With](#built-with)
@@ -77,28 +77,28 @@ Project developed during the Next Level Week, an event organized by <a href="htt
 
 
 <!-- BUILT WITH -->
-### :rocket: Built With
+## Built With
 
-## Web app
+### Web app
 * []() React
 * []() Axios
 * []() Leaflet (maps)
 * []() Typescript
 
-## Mobile app
+### Mobile app
 * []() React Native
 * []() Axios
 * []() Expo
 * []() Typescript
 
-## Backend app
+### Backend app
 * []() Ts-Node
 * []() Express
 * []() KnexJs
 * []() SQLite
 
 <!-- GETTING STARTED -->
-## Getting Started
+## :fire: Getting Started
 
 Before following the next steps, make sure to change the routes with the correctlye connection (for expo check the 192.XXX.XXX:YYYY connection).
 
@@ -160,8 +160,8 @@ Distributed under the MIT License.
 <!-- CONTACT -->
 ## Contact
 
-Conrado Alexsander 
-Github: [https://github.com/conradoalexsander](https://github.com/conradoalexsander)
+Conrado Alexsander </br>
+Github: [https://github.com/conradoalexsander](https://github.com/conradoalexsander) </br>
 Project Link: [https://github.com/conradoalexsander/Ecoleta-Typescript-Node-React-ReactNative-SQlite](https://github.com/conradoalexsander/Ecoleta-Typescript-Node-React-ReactNative-SQlite)
 
 
@@ -169,7 +169,7 @@ Project Link: [https://github.com/conradoalexsander/Ecoleta-Typescript-Node-Reac
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 
-* []() Rocketseat
+* []() <a href="https://rocketseat.com.br/">Rocketseat</a>
 
 
 
