@@ -1,18 +1,14 @@
 <!--
 *** Thanks for checking out this README Template. If you have a suggestion that would
-*** make this better, please fork the repo and create a pull request or simply open
+*** make this better, please fork the Ecoleta-Typescript-Node-React-ReactNative-SQlite and create a pull request or simply open
 *** an issue with the tag "enhancement".
 *** Thanks again! Now go create something AMAZING! :D
 ***
 ***
 ***
 *** To avoid retyping too much info. Do a search and replace for the following:
-*** github_username, repo, twitter_handle, email
+*** conradoalexsander, Ecoleta-Typescript-Node-React-ReactNative-SQlite, twitter_handle, email
 -->
-
-
-
-
 
 <!-- PROJECT SHIELDS -->
 <!--
@@ -34,7 +30,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/conradoaçexsamder/Ecoleta-Typescript-Node-React-ReactNative-SQlite">
+  <a href="https://github.com/conradoalexsander/Ecoleta-Typescript-Node-React-ReactNative-SQlite">
     <img src="images/nlw_README.png" alt="Logo" width="200" height="200">
   </a>
 
@@ -59,8 +55,6 @@
   * [Prerequisites](#prerequisites)
   * [Installation](#installation)
 * [Usage](#usage)
-* [Roadmap](#roadmap)
-* [Contributing](#contributing)
 * [License](#license)
 * [Contact](#contact)
 * [Acknowledgements](#acknowledgements)
@@ -70,107 +64,110 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://github.com/conradoalexsander/Ecoleta-Typescript-Node-React-ReactNative-SQlite/blob/master/images/web-home-sample.png)
-
 <p align="center">
 <img
-src="imgages/web-home-sample.png"
+src="images/web-home-sample.png"
 raw=true
 alt="Web Home Screen" 
 height="512px" 
 />
 </p>
 
-Here's a blank template to get started:
-**To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`github_username`, `repo`, `twitter_handle`, `email`
+<!-- BUILT WITH -->
+### :rocket: Built With
 
+## Web app
+* []() React
+* []() Axios
+* []() Leaflet (maps)
+* []() Typescript
 
-### Built With
+## Mobile app
+* []() React Native
+* []() Axios
+* []() Expo
+* []() Typescript
 
-* []()
-* []()
-* []()
-
-
+## Backend app
+* []() Ts-Node
+* []() Express
+* []() KnexJs
+* []() SQLite
 
 <!-- GETTING STARTED -->
 ## Getting Started
 
-To get a local copy up and running follow these simple steps.
+Before following the next steps, make sure to change the routes with the correctlye connection (for expo check the 192.XXX.XXX:YYYY connection).
+
+1. Open the server folder in a terminal and execute the following command:
+```sh
+npm run dev
+```
+2. Open the web folder in a terminal and execute the following command:
+```sh
+npm start
+```
+or
+
+```sh
+yarn start
+```
+You will be able to create new points from the web page now.
+
+3. Open the mobile folder in a terminal and execute the following command:
+```sh
+expo start
+```
+
+4. Use the expo app in your celphone to connect the app on it. Your pc and mobile device must be in the same network:
+
+You can now check the points, its location and filter them by recycable item.
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-```sh
-npm install npm@latest -g
-```
+* []() Node
+* []() Expo
 
 ### Installation
  
-1. Clone the repo
+1. Clone the Ecoleta-Typescript-Node-React-ReactNative-SQlite
 ```sh
-git clone https://github.com/github_username/repo.git
+git clone https://github.com/conradoalexsander/Ecoleta-Typescript-Node-React-ReactNative-SQlite.git
 ```
-2. Install NPM packages
+2. Install NPM packages (run this command in web, server and mobile folders)
 ```sh
 npm install
 ```
-
-
-
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+<p align="center" float="left">
+  <img src="images/mobile-screen-sample.gif" width="200" />
+  <img src="images/Top Mercados.gif" width="680" height="306" /> 
 
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-
-
-<!-- ROADMAP -->
-## Roadmap
-
-See the [open issues](https://github.com/github_username/repo/issues) for a list of proposed features (and known issues).
-
-
-
-<!-- CONTRIBUTING -->
-## Contributing
-
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
+</p>
 
 
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See `LICENSE` for more information.
-
+Distributed under the MIT License.
 
 
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email
-
-Project Link: [https://github.com/github_username/repo](https://github.com/github_username/repo)
+Conrado Alexsander 
+Github: [https://github.com/conradoalexsander](https://github.com/conradoalexsander)
+Project Link: [https://github.com/conradoalexsander/Ecoleta-Typescript-Node-React-ReactNative-SQlite](https://github.com/conradoalexsander/Ecoleta-Typescript-Node-React-ReactNative-SQlite)
 
 
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 
-* []()
-* []()
-* []()
+* []() Rocketseat
+
 
 
 
@@ -178,16 +175,19 @@ Project Link: [https://github.com/github_username/repo](https://github.com/githu
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=flat-square
-[contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=flat-square
-[forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=flat-square
-[stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=flat-square
-[issues-url]: https://github.com/othneildrew/Best-README-Template/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=flat-square
-[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/conradoalexsander/Ecoleta-Typescript-Node-React-ReactNative-SQlite.svg?style=flat-square
+[contributors-url]: https://github.com/conradoalexsander/Ecoleta-Typescript-Node-React-ReactNative-SQlite/graphs/contributors
+
+[forks-shield]:  https://img.shields.io/github/forks/conradoalexsander/Ecoleta-Typescript-Node-React-ReactNative-SQlite.svg?style=flat-square
+
+[forks-url]: https://github.com/conradoalexsander/Ecoleta-Typescript-Node-React-ReactNative-SQlite/network/members
+
+[stars-shield]: https://img.shields.io/github/stars/conradoalexsander/Ecoleta-Typescript-Node-React-ReactNative-SQlite.svg?style=flat-square
+[stars-url]: https://github.com/conradoalexsander/Ecoleta-Typescript-Node-React-ReactNative-SQlite/stargazers
+[issues-shield]: https://img.shields.io/github/issues/conradoalexsander/Ecoleta-Typescript-Node-React-ReactNative-SQlite.svg?style=flat-square
+[issues-url]: https://github.com/conradoalexsander/Ecoleta-Typescript-Node-React-ReactNative-SQlite/issues
+[license-shield]: https://img.shields.io/github/license/conradoalexsander/Ecoleta-Typescript-Node-React-ReactNative-SQlite.svg?style=flat-square
+[license-url]: https://github.com/conradoalexsander/Ecoleta-Typescript-Node-React-ReactNative-SQlite/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/othneildrew
+[linkedin-url]: https://linkedin.com/in/conradoalexsander
 [product-screenshot]: images/screenshot.png
